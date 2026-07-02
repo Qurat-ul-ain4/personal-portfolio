@@ -7,7 +7,7 @@ This website serves as my digital resume to host my academic background, technic
 ---
 
 ## 🚀 Live Demo
-> 🔗 **[Click Here to View My Live Portfolio](https://qurat-ul-ain4.github.io/personal-portfolio/)** *(Note: Hum ise agle step mein live karenge!)*
+> 🔗 **[Click Here to View My Live Portfolio](https://qurat-ul-ain4.github.io/personal-portfolio/)** 
 
 ---
 
