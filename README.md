@@ -31,5 +31,6 @@ This website serves as my digital resume to host my academic background, technic
 
 ---
 
-## ✨ Updates
-- Fixed GitHub Pages deployment issue (July 2026)
+## ✨ Recent Updates
+- Fixed GitHub Pages deployment (multiple retry attempts)
+- Infrastructure stability improvements
