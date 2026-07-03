@@ -28,3 +28,8 @@ This website serves as my digital resume to host my academic background, technic
 ## 📂 How to Run Locally
 1. Clone this repository.
 2. Open `index.html` in any modern web browser.
+
+---
+
+## ✨ Updates
+- Fixed GitHub Pages deployment issue (July 2026)
