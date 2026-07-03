@@ -7,7 +7,7 @@ This website serves as my digital resume to host my academic background, technic
 ---
 
 ## 🚀 Live Demo
-> 🔗 **[Click Here to View My Live Portfolio](https://qurat-ul-ain4.github.io/personal-portfolio/)** 
+> 🔗 **[Click Here to View My Live Portfolio](https://quratulain-portfolio1.netlify.app/)** 
 
 ---
 
@@ -30,7 +30,3 @@ This website serves as my digital resume to host my academic background, technic
 2. Open `index.html` in any modern web browser.
 
 ---
-
-## ✨ Recent Updates
-- Fixed GitHub Pages deployment (multiple retry attempts)
-- Infrastructure stability improvements
